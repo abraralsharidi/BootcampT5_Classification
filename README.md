@@ -2,8 +2,7 @@
 
 #### Introduction
 
-It is increasingly recognized that the management of hyperglycemia in the hospitalized patient has a significant bearing on outcome, in terms of both morbidity and mortality. This recognition has led to the development of formalized protocols in the intensive care unit (ICU) setting with rigorous glucose targets in many institutions. However, the same cannot be said for most non-ICU inpatient admissions. Rather, anecdotal evidence suggests that inpatient management is arbitrary and often leads to either no treatment at all or wide fluctuations in glucose when traditional management strategies are employed. In this project and according to the data set, we will use supervised machine learning techniques, particularly, classification to predict the outcome of a diabetic patient based on set of features which are thought to be very important and which are likely able to explain the variability in disease outcome in different patients.
-
+In this project and according to the data set, we will use supervised machine learning techniques. Particularly, classification to predict the outcome of a diabetic patient based on set of features which are thought to be very important and which are likely able to explain the variability in disease outcome in different patients.
 #### Approach
 
 In this project, we are going to propose a set of questions which tailor or guide the overall data analysis approach that will be taken in order to better understand the data and gain more insights from it to instruct future decisions. There are two medically important predictions to be made which most likely are important for both diagnosis and prognosis of diabetes in different patients.
