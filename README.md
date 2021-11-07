@@ -103,11 +103,11 @@ Table 1: List of features and their descriptions in the initial dataset (the dat
 
 #### Used libraries:
 
-- Pandas.
-- NumPy.
-- SciPy.
-- Matplotlib.
-- Seaborn.
-- SQLite
-- Panda profiling.
+- Pandas
+- NumPy
+- SciPy
+- Matplotlib
+- Seaborn
+- Panda profiling
 - Scikit-learn
+- Flask
