@@ -47,17 +47,6 @@ The algorithms are:
 - We utilized some machine learning techniques to select the best hyperparameters for each algorithm based on two 
 common and well known algorithms, namely, `GridSearchCV`.
   
-## Results
-
-<img src="1.png">
-<br/>
-<br/>
-
-<img src="2.png">
-<br/>
-<br/>
-
-
 
 Model(s) Accuracies:
 --------------------
