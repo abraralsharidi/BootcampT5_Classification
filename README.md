@@ -1,4 +1,4 @@
-## Diabetes Classification (MVP)
+## Diabetes Classification 
 
 # Introduction
 
